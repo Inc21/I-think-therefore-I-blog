@@ -1,9 +1,11 @@
 {
     "cSpell.words": [
+        "allauth",
         "cloudinary",
         "dksl",
         "forloop",
         "signup",
+        "socialaccount",
         "summernote"
     ]
 }
